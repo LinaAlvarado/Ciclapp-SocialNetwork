@@ -2,7 +2,7 @@ const signIn = () => {
     const viewSignIn = `
      <section class="viewSignIn" id="signIn">
     <figure class="logoSignIn">
-        <img src="img/Logo.png" alt="LogoCICLAPP" class="logoHorizontal">
+        <img src="../../img/Logo.png" alt="LogoCICLAPP" class="logoHorizontal">
         <figcaption class="textLogo">CICLAPP</figcaption>
     </figure>
   
@@ -32,7 +32,7 @@ const signIn = () => {
   
     <p class="o">- O -</p>
     <button type="button" class="googleSignIn" id="googleButton">
-        <img src="img/logo_google.svg" alt="GoogleIcon" class="GoogleIcon">
+        <img src="../../img/GoogleIcon.png" alt="GoogleIcon" class="GoogleIcon">
         <span id="registerGoogle">Registrate con Google</span>
     </button>
   
